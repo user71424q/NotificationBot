@@ -1,7 +1,6 @@
 import telebot
 from telebot import types
 from config import load_configuration
-from TODO import *
 from db_interact import *
 from datetime import datetime
 from data_parsing import *
