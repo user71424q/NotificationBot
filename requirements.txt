@@ -1,0 +1,4 @@
+telebot 
+pymysql 
+pandas 
+numpy
